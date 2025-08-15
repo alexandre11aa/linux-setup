@@ -51,7 +51,7 @@ $ ./<DISTRIBUICAO>.sh
 
 O script precisa de acesso root. Ele pedirá sua senha de sudo no início.
 
-Após a instalação do Docker, é necessário relogar ou reiniciar o sistema para que o usuário atual tenha permissão de usar Docker sem sudo.
+Após o fim das instações, recomenda-se reiniciar o sistema, pois é necessário relogar ou o reiniciar para que o usuário possa por exemplo: garantir permissão de usar Docker sem sudo, e até mesmo ativer o Cinnamon.
 
 ## 🛠️ Requisitos
 
