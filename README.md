@@ -26,13 +26,13 @@ $ sudo apt update && sudo apt install -y curl wget
 - *Download via **curl**:*
 
 ```
-$ curl -O https://raw.githubusercontent.com/Centro-Universitario-de-Patos/AmbienteConfigs/main/<DISTRIBUIÇÃO>.sh
+$ curl -O https://raw.githubusercontent.com/alexandre11aa/linux-setup/main/<DISTRIBUIÇÃO>.sh
 ```
 
 - *Download via **wget**:*
 
 ```
-$ wget https://raw.githubusercontent.com/Centro-Universitario-de-Patos/AmbienteConfigs/main/<DISTRIBUIÇÃO>.sh
+$ wget https://raw.githubusercontent.com/alexandre11aa/linux-setup/main/<DISTRIBUIÇÃO>.sh
 ```
 
 #### 2. Dê permissão de execução
