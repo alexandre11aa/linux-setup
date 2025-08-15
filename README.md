@@ -38,7 +38,7 @@ $ wget https://raw.githubusercontent.com/alexandre11aa/linux-setup/main/<DISTRIB
 #### 2. Dê permissão de execução
 
 ```
-$ chmod +x instalar_apps.sh
+$ chmod +x <DISTRIBUICAO>.sh
 ```
 
 #### 3. Execute o script
