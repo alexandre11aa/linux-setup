@@ -26,13 +26,13 @@ $ sudo apt update && sudo apt install -y curl wget
 - *Download via **curl**:*
 
 ```
-$ curl -O https://raw.githubusercontent.com/alexandre11aa/linux-setup/main/<DISTRIBUIÇÃO>.sh
+$ curl -O https://raw.githubusercontent.com/alexandre11aa/linux-setup/main/<DISTRIBUICAO>.sh
 ```
 
 - *Download via **wget**:*
 
 ```
-$ wget https://raw.githubusercontent.com/alexandre11aa/linux-setup/main/<DISTRIBUIÇÃO>.sh
+$ wget https://raw.githubusercontent.com/alexandre11aa/linux-setup/main/<DISTRIBUICAO>.sh
 ```
 
 #### 2. Dê permissão de execução
@@ -44,7 +44,7 @@ $ chmod +x instalar_apps.sh
 #### 3. Execute o script
 
 ```
-$ ./instalar_apps.sh
+$ ./<DISTRIBUICAO>.sh
 ```
 
 ## ⚠️ Observações
